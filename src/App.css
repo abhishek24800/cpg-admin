@@ -1,0 +1,29 @@
+.app-container {
+  display: flex;
+}
+
+.content {
+  width: 100%;
+}
+
+.navbar{
+  background-color: rgb(62, 156, 156);
+  margin-left: 0px;
+}
+
+.div-navbar{
+  background-color: rgb(62, 156, 156);
+}
+
+.header{
+  background-color: aquamarine;
+}
+
+.sidebar {
+  min-height: 800px;
+  min-width: fit-content;
+}
+
+.logout-button{
+  justify-content: flex-end;
+}
